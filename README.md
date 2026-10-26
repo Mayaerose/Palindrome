@@ -51,7 +51,7 @@ This app needs a Node server
 - How to reverse a string using `split()`, `reverse()` and `join()`
 - How to use `npm install` to add packages like figlet
 
-VIEW APP HERE: https://palindrome-t5j9.onrender.com/
+VIEW APP HERE: https://palindrome-t5j9.onrender.com
 
 ## Author
 
